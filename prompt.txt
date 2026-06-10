@@ -1,0 +1,29 @@
+1)How to Create a repository in GitHub.
+Submit the link to the GitHub repository in Moodle. (In the online text field provided in the assignment)
+Daily push to GitHub is mandatory.
+
+2)Problem Statement: Write a 2d graphics editor using * and  _.
+
+3)Write functions to draw a circle, rectangle, line, and triangle.
+You should be able to
+      add objects to the picture,
+      delete objects from the picture, and
+       modify objects in the picture.
+Use a 2d array of characters to store the picture.
+Write a function to display the picture
+
+4)install gcc complier
+
+5)fix the issues about the gcc path showing in the terminal
+
+6)how to check wheather gcc is installed or not  
+
+7) how to run the code , gcc is installed successfuly
+
+8) what are the comments should be given to push the program to git link
+
+9)how to Create txt file n upload in the same link 
+
+10) comments to upload text file 
+
+11) how to check the uploaded repository is visible
